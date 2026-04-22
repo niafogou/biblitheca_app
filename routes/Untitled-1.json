@@ -1,0 +1,24 @@
+
+//json auteur
+{
+  "nom": "Victor Hugo",
+  "prenoms": "Jean",
+  "email": "victor@gmail.com"
+}
+
+//json categorie
+{
+  "libelle": "Roman"
+}
+
+//json livre
+{
+  "commentaire": "Un classique de la littérature française.",
+  "contactAuteur": "victor@gmail.com",
+  "note": 5,
+  "version": "1.0",
+  "active": true,
+  "user_create": 1,
+  "user_update": 1,
+  "etablissement_id": 1
+}
